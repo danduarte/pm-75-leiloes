@@ -5,7 +5,8 @@ import br.com.caelum.leilao.dominio.Leilao;
 
 class Avaliador {   
 
-	private double maiorDeTodos = Double.NEGATIVE_INFINITY; 
+	private double maiorDeTodos = Double.NEGATIVE_INFINITY;
+	//Mudança
 	private double menorDeTodos = Double.POSITIVE_INFINITY;
 	private double media = 0;
 
